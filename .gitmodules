@@ -1,0 +1,5 @@
+
+[submodule "bundles/lower-third"]
+	path = bundles/lower-third
+	url = https://github.com/akolites/lower-third.git
+	branch = beta
